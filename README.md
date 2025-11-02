@@ -92,3 +92,8 @@
 </ol>
 </div>
 <!-- END OF DETAILED WORKFLOW DESCRIPTION (8 STEPS) -->
+
+<h2>FLOWCHART</h2>
+<div align = "center">
+<img width="966" height="462" alt="image" src="https://github.com/user-attachments/assets/91895aeb-8c09-4e3b-bd6e-14ac84a80a92" />
+</div>
